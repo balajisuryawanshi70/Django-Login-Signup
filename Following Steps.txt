@@ -1,4 +1,4 @@
-1) creating folder Name :- Registration System
+#creating folder Name :- Registration System
 2) open cmd and enter below command:-
 3) django-admin startproject registration
 4) cd registration
